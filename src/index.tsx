@@ -12,6 +12,9 @@ export interface Props extends HTMLAttributes<HTMLDivElement> {
  */
 export const Thing: FC<Props> = ({ children }) => {
   return (
-    <div>{children || `Hey! am testing versioning by semantic-release`}</div>
+    <div>
+      {children ||
+        `Hey! am this is a new feature, semantic-release show me the magic!`}
+    </div>
   );
 };
