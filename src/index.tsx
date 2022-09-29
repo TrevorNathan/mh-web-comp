@@ -14,7 +14,7 @@ export const Thing: FC<Props> = ({ children }) => {
   return (
     <div>
       {children ||
-        `Hey! am this is a new feature, semantic-release show me the magic!`}
+        `Hey! am this is a new workflow to publish to github, semantic-release show me the magic!`}
     </div>
   );
 };
