@@ -75,6 +75,6 @@
     "url": "https://github.com/TrevorNathan/test-github-actions.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/test-github-actions"
   }
 }
