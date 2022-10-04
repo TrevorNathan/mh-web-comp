@@ -71,8 +71,9 @@
     "semantic-release": "^19.0.5"
   },
   "repository": {
+    "name": "@TrevorNathan/mh-web-comp",
     "type": "git",
-    "url": "https://github.com/TrevorNathan/test-github-actions.git"
+    "url": "https://github.com/TrevorNathan/mh-web-comp.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
