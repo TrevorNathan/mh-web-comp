@@ -1,10 +1,6 @@
-# TSDX React w/ Storybook User Guide
+# mh-web-comp - TSDX React Test
 
 > This TSDX setup is meant for developing React component libraries (not apps!) that can be published to NPM. If you’re looking to build a React-based app, you should use `create-react-app`, `razzle`, `nextjs`, `gatsby`, or `react-static`.
-
-#### React Testing Library
-
-We do not set up `react-testing-library` for you yet, we welcome contributions and documentation on this.
 
 ### Rollup
 
